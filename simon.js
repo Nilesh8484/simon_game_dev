@@ -73,6 +73,7 @@ function checkans(inx){
     }
 }
 
+
 function reset(){
     gameseq=[];
     userseq=[];
