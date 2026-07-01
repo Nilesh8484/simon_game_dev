@@ -56,7 +56,6 @@ let allbtn = document.querySelectorAll(".btn");
 for (btn of allbtn){
     btn.addEventListener("click",btnpress);
 }
-hjgjgjgjghgghhhfhghffhfhfh
 function checkans(inx){
    
 
