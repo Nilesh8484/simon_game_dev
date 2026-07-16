@@ -38,3 +38,12 @@ margin: 1rem;
 .user{
     background-color: black;    
 }
+
+h1{
+    text-decoration: black solid underline;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     
+}
