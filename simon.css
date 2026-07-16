@@ -22,7 +22,7 @@ margin: 1rem;
     background-color: yellow;
 
 }
-.red{
+.red{   
  background-color:red;
 }
 .purple{
@@ -36,7 +36,7 @@ margin: 1rem;
     background-color: white;
 }
 .user{
-    background-color: black;
+    background-color: black;  
 }
 h1{
     text-decoration: black solid underline;
@@ -44,5 +44,5 @@ h1{
 
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
-   
+     
 }
