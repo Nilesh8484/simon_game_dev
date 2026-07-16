@@ -32,11 +32,11 @@ margin: 1rem;
  background-color:green;
 }
 
-.flash{
+.flash{    
     background-color: white;
 }
 .user{
-    background-color: black;  
+    background-color: black;    
 }
 h1{
     text-decoration: black solid underline;
