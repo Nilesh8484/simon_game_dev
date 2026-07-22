@@ -6,7 +6,7 @@ let level =0;
 let started = false;
 let h2 = document.querySelector("h2");
 let colors = ["yellow","red","purple","green"];
-
+    
 document.addEventListener("keypress", function(){
     if (started==false){
         console.log("game is stated");
