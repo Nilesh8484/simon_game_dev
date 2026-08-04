@@ -16,7 +16,7 @@ document.addEventListener("keypress", function(){
 });
 
 
-
+  
 function levelup(){
     userseq=[]; 
 level++;
