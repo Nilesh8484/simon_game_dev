@@ -10,7 +10,7 @@
 
 ---
 
-# 🧠 Simon Game
+# 🧠 Simon Game 
 
 A fun and interactive **Simon Memory Game** built using **HTML, CSS, and JavaScript**. The game tests your memory by generating a sequence of colors that you must repeat correctly. As you progress, the sequence becomes longer and more challenging.
 
