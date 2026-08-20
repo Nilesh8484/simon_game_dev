@@ -15,11 +15,11 @@ document.addEventListener("keypress", function(){
     levelup();
 });
 
-
+  
   
 function levelup(){
     userseq=[]; 
-level++;
+level++;  
 h2.innerText=`level ${level}`;
 
 let randInd = Math.floor(Math.random()*3);
