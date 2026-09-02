@@ -80,4 +80,4 @@ function reset(){
     userseq=[];
     level=0;
     started=false;
-}
+}  
